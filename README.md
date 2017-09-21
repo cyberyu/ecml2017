@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Synopsis
 Rank Score + Isotonic Regression model. This repo contains code and data
 described in 
@@ -7,6 +8,17 @@ Bockhorst et al., European Conference on Machine Learning (ECML 2017)
  
 ## Code Example
 ```python
+=======
+# ecml2017
+
+Synopsis
+
+Rank Score + Isotonic Regression model. This repo contains code and data described in Predicting Self-reported Customer Satisfaction of Interactions with a Corporate Call Center Bockhorst et al., European Conference on Machine Learning (ECML 2017)
+
+Code Example
+
+```
+>>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 import numpy as np
 from rsir import RankScoreIsoRegression
 from ecml_2017 import load_data
@@ -24,9 +36,17 @@ print("Test set mean absolute error: {}".format(np.abs(y_te-y_hat_te).mean()))
 ...
 Test set mean absolute error: 0.775229527959
 ```
+<<<<<<< HEAD
 ## Dependencies
 Python 2.7.12
 External packages: numpy, scipy, sklearn:
+=======
+
+Dependencies
+
+Python 2.7.12 External packages: numpy, scipy, sklearn:
+
+>>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 ```
 print(sklearn.__version__)
 0.19.0
@@ -38,7 +58,12 @@ print(scipy.__version__)
 0.19.1
 ```
 
+<<<<<<< HEAD
 ## Installation
+=======
+Installation
+
+>>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 ```
 > git clone https://github.com/cyberyu/ecml2017
 > cd ecml2017/code
@@ -70,7 +95,15 @@ RIDGE
     Best alpha : 2**15.0
     TR pearson:0.615138530731, spearman:0.459165058423 MAE:0.705994009972
     TE pearson:0.286084145308, spearman:0.212752112383 MAE:0.809126138687
+<<<<<<< HEAD
 ```
 
 ## License
+=======
+    
+```
+
+License
+
+>>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 BSD 2-Clause License
