@@ -61,7 +61,7 @@ print(scipy.__version__)
 =======
 Installation
 
->>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
+
 ```
 > git clone https://github.com/cyberyu/ecml2017
 > cd ecml2017/code
