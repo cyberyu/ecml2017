@@ -10,16 +10,6 @@ Bockhorst et al., European Conference on Machine Learning (ECML 2017)
 
 
 ```python
-=======
-# ecml2017
-
-Synopsis
-
-Rank Score + Isotonic Regression model. This repo contains code and data described in Predicting Self-reported Customer Satisfaction of Interactions with a Corporate Call Center Bockhorst et al., European Conference on Machine Learning (ECML 2017)
-
-Code Example
-
-```python
 import numpy as np
 from rsir import RankScoreIsoRegression
 from ecml_2017 import load_data
