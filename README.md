@@ -27,7 +27,7 @@ print("Test set mean absolute error: {}".format(np.abs(y_te-y_hat_te).mean()))
 ...
 Test set mean absolute error: 0.775229527959
 ```
-<<<<<<< HEAD
+
 ## Dependencies
 Python 2.7.12
 External packages: numpy, scipy, sklearn:
@@ -48,7 +48,7 @@ print(scipy.__version__)
 0.19.1
 ```
 
-<<<<<<< HEAD
+
 ## Installation
 =======
 Installation
