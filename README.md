@@ -18,7 +18,6 @@ Rank Score + Isotonic Regression model. This repo contains code and data describ
 Code Example
 
 ```
->>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 import numpy as np
 from rsir import RankScoreIsoRegression
 from ecml_2017 import load_data
@@ -46,7 +45,6 @@ Dependencies
 
 Python 2.7.12 External packages: numpy, scipy, sklearn:
 
->>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 ```
 print(sklearn.__version__)
 0.19.0
