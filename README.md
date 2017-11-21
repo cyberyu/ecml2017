@@ -7,6 +7,8 @@ Corporate Call Center](http://ecmlpkdd2017.ijs.si/papers/paperID598.pdf)
 Bockhorst et al., European Conference on Machine Learning (ECML 2017)
  
 ## Code Example
+<<<<<<< part1
+
 ```python
 =======
 # ecml2017
