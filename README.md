@@ -85,7 +85,7 @@ RIDGE
     Best alpha : 2**15.0
     TR pearson:0.615138530731, spearman:0.459165058423 MAE:0.705994009972
     TE pearson:0.286084145308, spearman:0.212752112383 MAE:0.809126138687
-<<<<<<< HEAD
+
 ```
 
 ## License
