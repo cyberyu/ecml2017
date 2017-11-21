@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Synopsis
 Rank Score + Isotonic Regression model. This repo contains code and data
 described in 
@@ -95,5 +95,4 @@ RIDGE
 
 License
 
->>>>>>> 92398b92f124844c5b78ef4de5b27a34a44c7c6c
 BSD 2-Clause License
